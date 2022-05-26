@@ -1,0 +1,21 @@
+module.exports = {
+  projects: [
+    '<rootDir>/apps/app',
+    '<rootDir>/apps/api',
+    '<rootDir>/libs/lecture/watch',
+    '<rootDir>/libs/lecture/create-unit',
+    '<rootDir>/libs/lecture/statistics',
+    '<rootDir>/libs/backend/models',
+    '<rootDir>/libs/backend/controllers',
+    '<rootDir>/libs/backend/auth',
+    '<rootDir>/libs/frontend/login',
+    '<rootDir>/libs/frontend/home',
+    '<rootDir>/libs/frontend/navigation',
+    '<rootDir>/libs/lecture/create',
+    '<rootDir>/libs/lecture/quizzes',
+    '<rootDir>/libs/frontend/api-services',
+    '<rootDir>/libs/frontend/context',
+    '<rootDir>/libs/frontend/lecture/questions',
+    '<rootDir>/libs/backend/services',
+  ],
+};
