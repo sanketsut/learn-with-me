@@ -2,7 +2,11 @@
 # SEBA master: Learn With Me
 
 The team 36 SEBA master prototype. A platform allowing students to watch Lectures together in perfect sync and chat about them.\
-With addtional featueres such as Quizzes, Questions and Statistics.
+With additional featueres such as Quizzes, Questions and Statistics.
+
+A moodle portal suitable for a university where students primarily can watch video lectures with other students in complete synchronization from their home, similar to Netflix Party or Prime Watch Party, where students can create private rooms and converse in chat, write exams and attempt quizzes.  
+Implemented on a MERN 3 tier stack on vanilla JS with the ability to deploy on cloud for direct use.  
+Secured the highest grade of 1.0 for the project among around 45 teams.  
 
 
 ## Installation
